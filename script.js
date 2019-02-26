@@ -1,7 +1,7 @@
 $( document ).ready(function() {
 	// Current location (for Yahoo weather)
-	var YAHOO_WEATHER_LAT = 43.708412;
-	var YAHOO_WEATHER_LON = -79.3900443;
+	var YAHOO_WEATHER_LAT = 43.212360;
+	var YAHOO_WEATHER_LON = -79.779831;
 	
 	// API key for newsapi.org: https://newsapi.org/register
 	var NEWS_API_KEY = "<<Insert API key>>";
